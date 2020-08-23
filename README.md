@@ -1,4 +1,4 @@
 ## Currency Converter app Using React
 <center>
-<img src="./screenshot.png"></img>
+<img src="./screenshots.png"></img>
 </center>
